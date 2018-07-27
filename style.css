@@ -1,0 +1,13 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+
+#main-bio,
+#contact-info,
+#bio-image {
+    float: left
+}
